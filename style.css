@@ -1,6 +1,20 @@
 /* .container{
     box-sizing: border-box;
 } */
+ .img-fluid{
+            width: 200px;
+            height: 100px;
+        }
+        p{
+            color:black;
+        }
+        h1{
+            color:black;
+          
+        }
+        h2{
+            color: black;
+        }
 .hero-images{
     height: 50%;
     background-repeat: no-repeat;
@@ -51,10 +65,10 @@
     font-size:78px;
     position:relative;
     text-align: center;
-    margin-bottom: 90%;
+    margin-bottom: 70%;
     color: black
 }
 .netlify{
     width: 10%;
-    height: 20%;
+    height: 10%;
 }
